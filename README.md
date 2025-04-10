@@ -57,10 +57,10 @@ The workflow includes RNA-Seq data acquisition, differential expression analysis
   - Plugins: `stringApp (v2.2.0)`, `cytoHubba (v0.1)`
 
   ## References
--TCGA Data Portal: https://portal.gdc.cancer.gov
--DESeq2: https://bioconductor.org/packages/release/bioc/html/DESeq2.html
--clusterProfiler: https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html
--Cytoscape: https://cytoscape.org
+- TCGA Data Portal: https://portal.gdc.cancer.gov
+- DESeq2: https://bioconductor.org/packages/release/bioc/html/DESeq2.html
+- clusterProfiler: https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html
+- Cytoscape: https://cytoscape.org
   
 ## 📫 Contact
 
